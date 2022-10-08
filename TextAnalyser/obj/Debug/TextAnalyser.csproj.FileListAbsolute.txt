@@ -1,0 +1,11 @@
+C:\Users\Baataoui Youssef\source\repos\TextAnalyser\TextAnalyser\bin\Debug\TextAnalyser.exe.config
+C:\Users\Baataoui Youssef\source\repos\TextAnalyser\TextAnalyser\bin\Debug\TextAnalyser.exe
+C:\Users\Baataoui Youssef\source\repos\TextAnalyser\TextAnalyser\bin\Debug\TextAnalyser.pdb
+C:\Users\Baataoui Youssef\source\repos\TextAnalyser\TextAnalyser\obj\Debug\TextAnalyser.csproj.AssemblyReference.cache
+C:\Users\Baataoui Youssef\source\repos\TextAnalyser\TextAnalyser\obj\Debug\TextAnalyser.csproj.SuggestedBindingRedirects.cache
+C:\Users\Baataoui Youssef\source\repos\TextAnalyser\TextAnalyser\obj\Debug\TextAnalyser.Form1.resources
+C:\Users\Baataoui Youssef\source\repos\TextAnalyser\TextAnalyser\obj\Debug\TextAnalyser.Properties.Resources.resources
+C:\Users\Baataoui Youssef\source\repos\TextAnalyser\TextAnalyser\obj\Debug\TextAnalyser.csproj.GenerateResource.cache
+C:\Users\Baataoui Youssef\source\repos\TextAnalyser\TextAnalyser\obj\Debug\TextAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\Baataoui Youssef\source\repos\TextAnalyser\TextAnalyser\obj\Debug\TextAnalyser.exe
+C:\Users\Baataoui Youssef\source\repos\TextAnalyser\TextAnalyser\obj\Debug\TextAnalyser.pdb
